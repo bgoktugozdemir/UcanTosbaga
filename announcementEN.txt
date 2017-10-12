@@ -1,1 +1,5 @@
-You will see announcements soon.
+
+{
+  "oldAnnouncement": "New version has been released. You should keep the game up-to-date.",
+  "newAnnouncement": "Thank you for using last version. New features will be released soon."
+}

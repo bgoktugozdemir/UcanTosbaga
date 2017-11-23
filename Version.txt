@@ -1,3 +1,2 @@
 0.2.2
 "Zorunlu Update" = *NO*
-"Alpha Version" = *0.2.3a*
